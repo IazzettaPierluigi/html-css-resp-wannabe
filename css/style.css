@@ -150,5 +150,11 @@ img {
         align-items: center;
     }
     
-   
+.container{
+    width: 100%;
+}
+
+   .col{
+    width: 100%;
+   }
 }
