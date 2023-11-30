@@ -138,3 +138,17 @@ img {
   }
   
 }
+
+@media screen and (max-width: 480px) {
+  
+    
+    
+    .row{
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        align-items: center;
+    }
+    
+   
+}
