@@ -150,19 +150,28 @@ img {
         align-items: center;
     }
     
-.container{
-    width: 100%;
-}
 
-   .lessons .col{
+
+   
+  
+     .lessons .col{
     width: 100%;
-   }
+   } 
 
    .steps .col{
     width: 100%;
+   } 
+
+    .why-us .col{
+    width: 100%;
+   }  
+    
+   .why-us {
+    background-color: black;
+    padding: 3em 0;
    }
 
-   .why-us .col{
-    width: 100%;
+   .steps {
+    margin-bottom: 0;
    }
 }
